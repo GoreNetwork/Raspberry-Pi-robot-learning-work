@@ -3,7 +3,7 @@ import time
 import time
 import slack
 import requests
-token = 'xoxp-887994720226-887995702098-902608463013-0d7fdb41963ed2a63445b00d290721ab'
+token = 'xoxp-blahblahblah'
 
 channel = 'CSGP7NMMK'
 file_name='blink_speed.txt'
